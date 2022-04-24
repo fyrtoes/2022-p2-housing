@@ -8,6 +8,7 @@
 
 ## Code and Resources Used
 **R version:** 4.1.3
+
 **Packages:** tidyverse, forecastML
 
 ## Effect of Quantitative Easing/Tightening on local housing market
