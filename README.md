@@ -7,7 +7,7 @@
 * Median home price, interest rate, and monthly payment are all relative values to initial datapoint
 
 ## Code and Resources Used
-**R version:** 4.1.3
+**R version:** 4.1.3  
 **Packages:** tidyverse, forecastML
 
 ## Effect of Quantitative Easing/Tightening on local housing market
