@@ -11,4 +11,4 @@
 **Packages:** tidyverse, forecastML
 
 ## Effect of Quantitative Easing/Tightening on local housing market
-![](/images/SA_housing_Final.png)
+![](/SA_housing_Final.png)
